@@ -14,15 +14,13 @@ export const site = {
   contact: {
     email: "contato@erysdev.com.br", // TODO: e-mail real
     // Somente dígitos, com DDI e DDD. Ex.: 5582999998888
-    whatsapp: "5582999998888", // TODO: número real
+    whatsapp: "5582998021885",
     whatsappMessage:
       "Olá! Vim pelo site da erysdev e queria conversar sobre um projeto.",
     country: "Brasil",
   },
 
   social: {
-    github: "https://github.com/erysdev", // TODO
-    linkedin: "https://linkedin.com/company/erysdev", // TODO
     instagram: "https://instagram.com/erysdev", // TODO
   },
 

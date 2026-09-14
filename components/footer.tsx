@@ -28,8 +28,6 @@ const columns = [
     links: [
       { label: "WhatsApp", href: whatsappUrl, external: true },
       { label: site.contact.email, href: mailtoUrl },
-      { label: "GitHub", href: site.social.github, external: true },
-      { label: "LinkedIn", href: site.social.linkedin, external: true },
     ],
   },
 ]
